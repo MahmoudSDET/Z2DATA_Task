@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-27T21:17:39 EET" name="Default suite" finished-at="2021-12-27T21:17:49 EET" duration-ms="10395">
+  <suite started-at="2021-12-27T21:58:36 EET" name="Default suite" finished-at="2021-12-27T21:58:50 EET" duration-ms="13988">
     <groups>
     </groups>
-    <test started-at="2021-12-27T21:17:39 EET" name="Default test" finished-at="2021-12-27T21:17:49 EET" duration-ms="10395">
+    <test started-at="2021-12-27T21:58:36 EET" name="Default test" finished-at="2021-12-27T21:58:50 EET" duration-ms="13988">
       <class name="Tests.GoogleSearchTestCases">
-        <test-method is-config="true" signature="intitiateTestCases()[pri:0, instance:Tests.GoogleSearchTestCases@694abbdc]" started-at="2021-12-27T21:17:39 EET" name="intitiateTestCases" finished-at="2021-12-27T21:17:45 EET" duration-ms="6057" status="PASS">
+        <test-method is-config="true" signature="intitiateTestCases()[pri:0, instance:Tests.GoogleSearchTestCases@694abbdc]" started-at="2021-12-27T21:58:36 EET" name="intitiateTestCases" finished-at="2021-12-27T21:58:40 EET" duration-ms="4239" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intitiateTestCases -->
-        <test-method signature="googleSearchTest_01()[pri:0, instance:Tests.GoogleSearchTestCases@694abbdc]" started-at="2021-12-27T21:17:45 EET" name="googleSearchTest_01" finished-at="2021-12-27T21:17:49 EET" duration-ms="4288" status="PASS">
+        <test-method signature="googleSearchTest_01()[pri:0, instance:Tests.GoogleSearchTestCases@694abbdc]" started-at="2021-12-27T21:58:40 EET" name="googleSearchTest_01" finished-at="2021-12-27T21:58:50 EET" duration-ms="9717" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleSearchTest_01 -->
-        <test-method is-config="true" signature="finalizeTest()[pri:0, instance:Tests.GoogleSearchTestCases@694abbdc]" started-at="2021-12-27T21:17:49 EET" name="finalizeTest" finished-at="2021-12-27T21:17:50 EET" duration-ms="720" status="PASS">
+        <test-method is-config="true" signature="finalizeTest()[pri:0, instance:Tests.GoogleSearchTestCases@694abbdc]" started-at="2021-12-27T21:58:50 EET" name="finalizeTest" finished-at="2021-12-27T21:58:51 EET" duration-ms="673" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- finalizeTest -->
